@@ -2,6 +2,8 @@
 
     <string name="app_name">ActivityTest</string>
      <string name="button1">Button1</string>
+     <string name="button2">Button2</string>
+      <string name="button3">Button3</string>
      <string name="menu_add">add_item</string>
      <string name="menu_remove">remove_item</string>
 </resources>
